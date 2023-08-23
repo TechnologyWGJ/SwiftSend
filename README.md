@@ -5,7 +5,7 @@
 English | [简体中文](./README_CH.md) | [繁体中文](./README_CH_Hant.md)
 
 # Introduction
-## SwiftSend is developed using Electron and supports the three major platforms: Mac Windows, and Linux.
+## SwiftSend is developed using Electron and supports the three major platforms: Mac, Windows and Linux.
 
 | Mac | Windows | Linux |
 | --- | ------- | ----- |
