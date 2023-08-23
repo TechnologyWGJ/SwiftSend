@@ -22,3 +22,29 @@
 - SwiftSend支持对文件大小进行限制,防止硬盘空间不足
 ## 🔮 使用场景
 ### 你想给同事传一份文件,又不想加对方QQ,则可以将文件上传到SwiftSend,告诉对方验证码就可以实现传输文件
+
+# 二次开发
+- 安装`Node.js`
+```shell
+brew install node
+```
+- 创建一个文件夹,用来存放代码
+```shell
+mkdir SwiftSend
+```
+- 进入文件夹
+```shell
+cd SwiftSend
+```
+- 克隆仓库
+```shell
+git clone https://github.com/TechnologyWGJ/SwiftSend.git
+```
+- `Node.JS` 初始化
+```shell
+npm init
+```
+- 安装Electron
+```shell
+npm install electron
+```
