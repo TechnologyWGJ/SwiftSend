@@ -13,3 +13,5 @@ English | [简体中文](./README_CH.md) | [繁体中文](./README_CH_Hant.md)
 
 ## 🔮 Use Cases
 ### When you want to send a file to a colleague without adding them on a messaging platform, you can upload the file to SwiftSend and share the verification code for easy file transfer.
+
+### SwiftSend is developed using Electron and supports the three major platforms: Mac, Windows, and Linux.
