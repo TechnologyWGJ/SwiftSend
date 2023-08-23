@@ -4,6 +4,10 @@
 
 繁体中文 | [简体中文](./README_CH.md) | [English](./README.md)
 
+# 其他版本
+- [SwiftSend for Ios](https://github.com/TechnologyWGJ/SwiftSend-for-ios)
+- [SwiftSend for Server](https://github.com/TechnologyWGJ/SwiftSend-for-server)
+
 # 簡介
 ## SwiftSend是基於Electron開發，支援Mac、Windows和Linux三個主要平台
 
