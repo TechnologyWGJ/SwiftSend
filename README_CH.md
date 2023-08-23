@@ -44,7 +44,7 @@ git clone https://github.com/TechnologyWGJ/SwiftSend.git
 ```shell
 npm init
 ```
-- 安装Electron
+- 安装`Electron`
 ```shell
 npm install electron
 ```
