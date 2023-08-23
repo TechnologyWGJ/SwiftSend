@@ -5,7 +5,7 @@
 繁体中文 | [简体中文](./README_CH.md) | [English](./README.md)
 
 # 簡介
-## SwiftSend是基於Electron開發，支援Mac、Windows和Linux三個主要平台。
+## SwiftSend是基於Electron開發，支援Mac、Windows和Linux三個主要平台
 
 | Mac | Windows | Linux |
 | :---: | :-------: | :-----: |
