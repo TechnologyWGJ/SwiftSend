@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Settings</title>
+</head>
+
+<body>
+    <input type="text" id="text-input">
+    <button id="submit-button">Submit</button>
+    <script>
+        window.addEventListener("DOMContentLoaded", () => {
+            const submitButton = document.getElementById('submit-button');
+            const textInput = document.getElementById('text-input');
+            submitButton.addEventListener('click', () => {
+                window.api.Setting(textInput.value);
+                alert("modification successful. Changes will take effect after restarting the app.");
+            });
+        });
+    </script>
+</body>
+
+</html>
