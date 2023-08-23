@@ -6,7 +6,7 @@ English | [简体中文](./README_CH.md) | [繁体中文](./README_CH_Hant.md)
 
 # Other Versions
 - [SwiftSend for Ios](http://github.com/TechnologyWGJ/SwiftSend-for-ios)
-- [SwiftSend for Server]
+- [SwiftSend for Server](https://github.com/TechnologyWGJ/SwiftSend-for-server)
 
 # Introduction
 ## SwiftSend is developed using Electron and supports the three major platforms: Mac, Windows and Linux.
