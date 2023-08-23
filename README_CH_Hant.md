@@ -6,6 +6,11 @@
 
 # 簡介
 ## SwiftSend是基於Electron開發，支援Mac、Windows和Linux三個主要平台。
+
+| Mac | Windows | Linux |
+| :---: | :-------: | :-----: |
+| ☑️ | ☑️ | ☑️ |
+
 ## SwiftSend是一個高效的Web傳輸工具
 - SwiftSend無需客戶端，無需帳號，即可快速傳輸文件
 - SwiftSend可以配置文件超時後自動刪除，有效防止攻擊者惡意向伺服器傳輸大量大文件，將伺服器硬盤佔滿
