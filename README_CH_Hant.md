@@ -23,3 +23,29 @@
 
 ## 使用場景
 ### 你想給同事傳一份文件，又不想加對方QQ，則可以將文件上傳到SwiftSend，告訴對方驗證碼就可以實現傳輸文件
+
+# 二次開發
+- 安裝 `Node.js`
+```shell
+brew install node
+```
+- 建立一個資料夾，用來儲存程式碼
+```shell
+mkdir SwiftSend
+```
+- 進入該資料夾
+```shell
+cd SwiftSend
+```
+- 複製儲存庫
+```shell
+git clone https://github.com/TechnologyWGJ/SwiftSend.git
+```
+- 初始化 `Node.js`
+```shell
+npm init
+```
+- 安裝 `Electron`
+```shell
+npm install electron
+```
