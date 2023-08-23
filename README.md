@@ -8,7 +8,7 @@ English | [简体中文](./README_CH.md) | [繁体中文](./README_CH_Hant.md)
 ## SwiftSend is developed using Electron and supports the three major platforms: Mac, Windows and Linux.
 
 | Mac | Windows | Linux |
-| --- | ------- | ----- |
+| :---: | :-------: | :-----: |
 | ☑️ | ☑️ | ☑️ |
 
 ## SwiftSend is an efficient web transfer tool with the following features:
